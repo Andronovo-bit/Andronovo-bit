@@ -1,20 +1,20 @@
 <div align="center">
-<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
-<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/master/screen.gif" alt="Seyyid Yiğit" />
+<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/main/screen.gif" alt="Seyyid Yiğit" />
 </div>
 <br/>
 
 - ⌨️ Programming Languages I've used:
 
 <div align="center">
- <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/master/images/git.svg' width='30'/>
+ <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/pycharm.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/python2.png' height='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/flask.png' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/php.svg' width='40'/>
+ <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/Andronovo-bit/Andronovo-bit/blob/main/images/git.svg' width='30'/>
 </div>
 
 <br/><br/>
@@ -32,7 +32,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
@@ -50,7 +50,7 @@
     * [**Visit my Website**](https://seyyidyigit.com.tr/)
     
 <div align="center">
-<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/master/connected.gif" alt="Seyyid Yiğit" width="350" height="200" />
+<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/main/connected.gif" alt="Seyyid Yiğit" width="350" height="200" />
 </div>
 
 - 😄 Pronouns: **He/Him**
