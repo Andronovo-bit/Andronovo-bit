@@ -22,7 +22,7 @@
 <br/>
 
 <div align="center">
-<img src="https://github.com/Andornovo-bit/Andronovo-bit/blob/main/iron-man.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/main/iron-man.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
