@@ -50,7 +50,7 @@
     * [**Visit my Website**](https://seyyidyigit.com.tr/)
     
 <div align="center">
-<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/master/connected.gif" alt="Raghav Khullar" width="350" height="200" />
+<img src="https://github.com/Andronovo-bit/Andronovo-bit/blob/master/connected.gif" alt="Seyyid Yiğit" width="350" height="200" />
 </div>
 
 - 😄 Pronouns: **He/Him**
