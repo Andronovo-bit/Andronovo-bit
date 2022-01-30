@@ -17,6 +17,7 @@ Welcome To My GitHub Profile !
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Andronovo-bit/Andronovo-bit/main/iron-man.gif?token=GHSAT0AAAAAABRCOBURMW66634MEGMDNAM2YP7WIZQ" alt="Seyyid Yiğit" />
+
 </div>
 
 </div>
@@ -83,6 +84,7 @@ Welcome To My GitHub Profile !
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Andronovo-bit&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" alt="andronovo-bit" /></p>
 <img id="spotify-card" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lamimadl&amp;cover_image=true&amp;theme=default&amp;bar_color_cover=true">
+<img src="https://api.daily.dev/devcards/d0fde35260994ee78efefac7eefd10d2.png?r=nob" width="330" alt="Seyyid Yiğit's Dev Card"/>
 
 </div>
   
