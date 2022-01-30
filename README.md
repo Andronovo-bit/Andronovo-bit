@@ -80,7 +80,7 @@ Welcome To My GitHub Profile !
 </div>
 
 
-
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Andronovo-bit&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" alt="andronovo-bit" /></p>
 <img id="spotify-card" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lamimadl&amp;cover_image=true&amp;theme=default&amp;bar_color_cover=true">
 
