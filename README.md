@@ -1,6 +1,6 @@
 <div align="left">
 
-<div style="
+<div align="center" style="
     display: flex;
     justify-content: center;
     align-items: center;">
@@ -25,17 +25,13 @@ Welcome To My GitHub Profile !
 </br>
 
 <p align="center" style="
-    /* display: flex; */
     flex-direction: column;
     display: flex;
     align-items: center;
-"> <span style="
-    font-size: medium;
-    font-weight: bold;
-">Visitors</span><img src="https://profile-counter.glitch.me/Andronovo-bit/count.svg" alt="andronovo-bit"> </p>
+"><img src="https://profile-counter.glitch.me/Andronovo-bit/count.svg" alt="andronovo-bit"> </p>
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andronovo-bit" alt="andronovo-bit" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andronovo-bit" alt="andronovo-bit" /></a> </p>
 
 
 
@@ -80,11 +76,10 @@ Welcome To My GitHub Profile !
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andronovo-bit&show_icons=true&locale=en" alt="andronovo-bit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Andronovo-bit&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" alt="andronovo-bit" /></p>
-
 
 <div align="center">
-<img id="spotify-card" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lamimadl&amp;cover_image=true&amp;theme=default&amp;bar_color_cover=true">>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Andronovo-bit&theme=buefy&date_format=M%20j%5B%2C%20Y%5D" alt="andronovo-bit" /></p>
+<img id="spotify-card" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lamimadl&amp;cover_image=true&amp;theme=default&amp;bar_color_cover=true">
 
+</div>
   
