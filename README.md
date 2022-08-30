@@ -170,6 +170,8 @@ Welcome To My GitHub Profile !
 		<strong>Become a sponsor to</strong>
       <a href="https://github.com/sponsors/Andronovo-bit">Seyyid Yiğit</a>
     </div>
+      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 </div>
 </div>
-  
+
