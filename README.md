@@ -88,5 +88,11 @@ Welcome To My GitHub Profile !
 <img id="spotify-card" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=lamimadl&amp;cover_image=true&amp;theme=default&amp;bar_color_cover=true">
 <img src="https://api.daily.dev/devcards/d0fde35260994ee78efefac7eefd10d2.png?r=nob" width="330" alt="Seyyid Yiğit's Dev Card"/>
 
+ <div dir="auto">
+        <div dir="auto">
+		<strong>Become a sponsor to</strong>
+      <a href="https://github.com/sponsors/Andronovo-bit">Seyyid Yiğit</a>
+    </div>
+</div>
 </div>
   
